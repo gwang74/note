@@ -1,0 +1,2 @@
+--获取SHA256
+keytool -list -v -keyStore ./weidex_keystore_201811.jks
